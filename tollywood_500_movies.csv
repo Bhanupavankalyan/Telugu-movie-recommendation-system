@@ -1,0 +1,501 @@
+title,genres,overview,cast,crew,movie_id
+Movie_1,['Drama'],This is the overview of movie 0.,"['Ram Charan', 'Sai Dharam Tej', 'Sai Dharam Tej']",['Trivikram Srinivas'],1000
+Movie_2,['Thriller'],This is the overview of movie 1.,"['NTR', 'Prabhas', 'Allu Arjun']",['Koratal Siva'],1001
+Movie_3,['Action'],This is the overview of movie 2.,"['Mahesh Babu', 'Chiranjeevi', 'Prabhas']",['Koratal Siva'],1002
+Movie_4,['Thriller'],This is the overview of movie 3.,"['Prabhas', 'Vijay Deverakonda', 'Sai Dharam Tej']",['Sukumar'],1003
+Movie_5,['Thriller'],This is the overview of movie 4.,"['Sai Dharam Tej', 'Sai Dharam Tej', 'Sai Dharam Tej']",['Sukumar'],1004
+Movie_6,['Action'],This is the overview of movie 5.,"['Prabhas', 'Vijay Deverakonda', 'Sai Dharam Tej']",['Puri Jagannadh'],1005
+Movie_7,['Romance'],This is the overview of movie 6.,"['Varun Tej', 'Chiranjeevi', 'Mahesh Babu']",['Boyapati Srinu'],1006
+Movie_8,['Romance'],This is the overview of movie 7.,"['Varun Tej', 'NTR', 'Pawan Kalyan']",['Trivikram Srinivas'],1007
+Movie_9,['Thriller'],This is the overview of movie 8.,"['Varun Tej', 'Allu Arjun', 'Mahesh Babu']",['Koratal Siva'],1008
+Movie_10,['Drama'],This is the overview of movie 9.,"['Mahesh Babu', 'Prabhas', 'Mahesh Babu']",['SS Rajamouli'],1009
+Movie_11,['Romance'],This is the overview of movie 10.,"['Varun Tej', 'Mahesh Babu', 'Pawan Kalyan']",['Koratal Siva'],1010
+Movie_12,['Romance'],This is the overview of movie 11.,"['NTR', 'Varun Tej', 'NTR']",['Trivikram Srinivas'],1011
+Movie_13,['Romance'],This is the overview of movie 12.,"['NTR', 'Ram Charan', 'Prabhas']",['Vamshi Paidipally'],1012
+Movie_14,['Comedy'],This is the overview of movie 13.,"['Mahesh Babu', 'Mahesh Babu', 'Vijay Deverakonda']",['Sukumar'],1013
+Movie_15,['Thriller'],This is the overview of movie 14.,"['Mahesh Babu', 'Varun Tej', 'Vijay Deverakonda']",['Koratal Siva'],1014
+Movie_16,['Romance'],This is the overview of movie 15.,"['Mahesh Babu', 'NTR', 'Pawan Kalyan']",['Sukumar'],1015
+Movie_17,['Comedy'],This is the overview of movie 16.,"['Mahesh Babu', 'Prabhas', 'Chiranjeevi']",['Vamshi Paidipally'],1016
+Movie_18,['Comedy'],This is the overview of movie 17.,"['Pawan Kalyan', 'Allu Arjun', 'NTR']",['SS Rajamouli'],1017
+Movie_19,['Action'],This is the overview of movie 18.,"['Pawan Kalyan', 'Mahesh Babu', 'Ram Charan']",['Vamshi Paidipally'],1018
+Movie_20,['Comedy'],This is the overview of movie 19.,"['Ram Charan', 'Vijay Deverakonda', 'Allu Arjun']",['Krish'],1019
+Movie_21,['Comedy'],This is the overview of movie 20.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'Prabhas']",['Koratal Siva'],1020
+Movie_22,['Drama'],This is the overview of movie 21.,"['Prabhas', 'Prabhas', 'Sai Dharam Tej']",['Puri Jagannadh'],1021
+Movie_23,['Romance'],This is the overview of movie 22.,"['NTR', 'NTR', 'Ram Charan']",['Koratal Siva'],1022
+Movie_24,['Thriller'],This is the overview of movie 23.,"['NTR', 'Mahesh Babu', 'NTR']",['Koratal Siva'],1023
+Movie_25,['Action'],This is the overview of movie 24.,"['Allu Arjun', 'Allu Arjun', 'Ram Charan']",['Krish'],1024
+Movie_26,['Comedy'],This is the overview of movie 25.,"['Sai Dharam Tej', 'Sai Dharam Tej', 'Chiranjeevi']",['Boyapati Srinu'],1025
+Movie_27,['Comedy'],This is the overview of movie 26.,"['Pawan Kalyan', 'Vijay Deverakonda', 'Allu Arjun']",['Trivikram Srinivas'],1026
+Movie_28,['Action'],This is the overview of movie 27.,"['Varun Tej', 'Sai Dharam Tej', 'Ram Charan']",['Trivikram Srinivas'],1027
+Movie_29,['Romance'],This is the overview of movie 28.,"['Chiranjeevi', 'Mahesh Babu', 'Allu Arjun']",['Sukumar'],1028
+Movie_30,['Thriller'],This is the overview of movie 29.,"['Mahesh Babu', 'Sai Dharam Tej', 'Vijay Deverakonda']",['Krish'],1029
+Movie_31,['Thriller'],This is the overview of movie 30.,"['Pawan Kalyan', 'Sai Dharam Tej', 'Pawan Kalyan']",['Boyapati Srinu'],1030
+Movie_32,['Action'],This is the overview of movie 31.,"['NTR', 'NTR', 'Ram Charan']",['Puri Jagannadh'],1031
+Movie_33,['Comedy'],This is the overview of movie 32.,"['NTR', 'NTR', 'Varun Tej']",['Puri Jagannadh'],1032
+Movie_34,['Action'],This is the overview of movie 33.,"['Pawan Kalyan', 'Pawan Kalyan', 'NTR']",['Vamshi Paidipally'],1033
+Movie_35,['Romance'],This is the overview of movie 34.,"['Varun Tej', 'NTR', 'Sai Dharam Tej']",['Sukumar'],1034
+Movie_36,['Action'],This is the overview of movie 35.,"['Varun Tej', 'Prabhas', 'Allu Arjun']",['Koratal Siva'],1035
+Movie_37,['Action'],This is the overview of movie 36.,"['Sai Dharam Tej', 'Sai Dharam Tej', 'Allu Arjun']",['Koratal Siva'],1036
+Movie_38,['Thriller'],This is the overview of movie 37.,"['Chiranjeevi', 'Varun Tej', 'Mahesh Babu']",['Sukumar'],1037
+Movie_39,['Action'],This is the overview of movie 38.,"['NTR', 'Sai Dharam Tej', 'Mahesh Babu']",['Vamshi Paidipally'],1038
+Movie_40,['Romance'],This is the overview of movie 39.,"['Mahesh Babu', 'Sai Dharam Tej', 'Allu Arjun']",['Puri Jagannadh'],1039
+Movie_41,['Romance'],This is the overview of movie 40.,"['Chiranjeevi', 'Sai Dharam Tej', 'Mahesh Babu']",['Koratal Siva'],1040
+Movie_42,['Thriller'],This is the overview of movie 41.,"['Prabhas', 'Varun Tej', 'Pawan Kalyan']",['Koratal Siva'],1041
+Movie_43,['Romance'],This is the overview of movie 42.,"['Mahesh Babu', 'Vijay Deverakonda', 'Ram Charan']",['Puri Jagannadh'],1042
+Movie_44,['Comedy'],This is the overview of movie 43.,"['Allu Arjun', 'Allu Arjun', 'Mahesh Babu']",['Vamshi Paidipally'],1043
+Movie_45,['Thriller'],This is the overview of movie 44.,"['Mahesh Babu', 'Chiranjeevi', 'Vijay Deverakonda']",['Boyapati Srinu'],1044
+Movie_46,['Thriller'],This is the overview of movie 45.,"['Prabhas', 'Allu Arjun', 'Allu Arjun']",['Boyapati Srinu'],1045
+Movie_47,['Action'],This is the overview of movie 46.,"['Chiranjeevi', 'Allu Arjun', 'Ram Charan']",['Krish'],1046
+Movie_48,['Romance'],This is the overview of movie 47.,"['Ram Charan', 'Pawan Kalyan', 'Mahesh Babu']",['Koratal Siva'],1047
+Movie_49,['Action'],This is the overview of movie 48.,"['Prabhas', 'Prabhas', 'Sai Dharam Tej']",['SS Rajamouli'],1048
+Movie_50,['Romance'],This is the overview of movie 49.,"['Allu Arjun', 'NTR', 'Varun Tej']",['Koratal Siva'],1049
+Movie_51,['Thriller'],This is the overview of movie 50.,"['NTR', 'Pawan Kalyan', 'Allu Arjun']",['Boyapati Srinu'],1050
+Movie_52,['Comedy'],This is the overview of movie 51.,"['Varun Tej', 'Chiranjeevi', 'NTR']",['Trivikram Srinivas'],1051
+Movie_53,['Romance'],This is the overview of movie 52.,"['Chiranjeevi', 'Varun Tej', 'Varun Tej']",['Sukumar'],1052
+Movie_54,['Comedy'],This is the overview of movie 53.,"['Ram Charan', 'Ram Charan', 'Allu Arjun']",['Trivikram Srinivas'],1053
+Movie_55,['Comedy'],This is the overview of movie 54.,"['Mahesh Babu', 'NTR', 'Varun Tej']",['Boyapati Srinu'],1054
+Movie_56,['Comedy'],This is the overview of movie 55.,"['Allu Arjun', 'NTR', 'Mahesh Babu']",['Puri Jagannadh'],1055
+Movie_57,['Drama'],This is the overview of movie 56.,"['Varun Tej', 'Mahesh Babu', 'Pawan Kalyan']",['Koratal Siva'],1056
+Movie_58,['Drama'],This is the overview of movie 57.,"['Chiranjeevi', 'Ram Charan', 'NTR']",['Trivikram Srinivas'],1057
+Movie_59,['Romance'],This is the overview of movie 58.,"['Allu Arjun', 'Vijay Deverakonda', 'Pawan Kalyan']",['Koratal Siva'],1058
+Movie_60,['Thriller'],This is the overview of movie 59.,"['Pawan Kalyan', 'Sai Dharam Tej', 'Chiranjeevi']",['Krish'],1059
+Movie_61,['Romance'],This is the overview of movie 60.,"['Pawan Kalyan', 'Pawan Kalyan', 'Allu Arjun']",['Trivikram Srinivas'],1060
+Movie_62,['Thriller'],This is the overview of movie 61.,"['Chiranjeevi', 'Sai Dharam Tej', 'Vijay Deverakonda']",['Trivikram Srinivas'],1061
+Movie_63,['Comedy'],This is the overview of movie 62.,"['Pawan Kalyan', 'Chiranjeevi', 'Prabhas']",['Puri Jagannadh'],1062
+Movie_64,['Drama'],This is the overview of movie 63.,"['Sai Dharam Tej', 'Ram Charan', 'Varun Tej']",['Vamshi Paidipally'],1063
+Movie_65,['Thriller'],This is the overview of movie 64.,"['Pawan Kalyan', 'Allu Arjun', 'Ram Charan']",['Vamshi Paidipally'],1064
+Movie_66,['Comedy'],This is the overview of movie 65.,"['Prabhas', 'Vijay Deverakonda', 'Prabhas']",['Krish'],1065
+Movie_67,['Action'],This is the overview of movie 66.,"['Sai Dharam Tej', 'Chiranjeevi', 'Mahesh Babu']",['Sukumar'],1066
+Movie_68,['Thriller'],This is the overview of movie 67.,"['Varun Tej', 'Allu Arjun', 'Chiranjeevi']",['Krish'],1067
+Movie_69,['Romance'],This is the overview of movie 68.,"['Chiranjeevi', 'Sai Dharam Tej', 'Ram Charan']",['SS Rajamouli'],1068
+Movie_70,['Thriller'],This is the overview of movie 69.,"['Allu Arjun', 'Prabhas', 'Allu Arjun']",['Krish'],1069
+Movie_71,['Drama'],This is the overview of movie 70.,"['Sai Dharam Tej', 'Varun Tej', 'Chiranjeevi']",['Koratal Siva'],1070
+Movie_72,['Action'],This is the overview of movie 71.,"['Allu Arjun', 'Sai Dharam Tej', 'Chiranjeevi']",['Boyapati Srinu'],1071
+Movie_73,['Romance'],This is the overview of movie 72.,"['Varun Tej', 'Ram Charan', 'Allu Arjun']",['SS Rajamouli'],1072
+Movie_74,['Comedy'],This is the overview of movie 73.,"['Pawan Kalyan', 'Varun Tej', 'Ram Charan']",['Puri Jagannadh'],1073
+Movie_75,['Romance'],This is the overview of movie 74.,"['Allu Arjun', 'Vijay Deverakonda', 'Pawan Kalyan']",['Boyapati Srinu'],1074
+Movie_76,['Romance'],This is the overview of movie 75.,"['Varun Tej', 'Pawan Kalyan', 'NTR']",['Trivikram Srinivas'],1075
+Movie_77,['Action'],This is the overview of movie 76.,"['Allu Arjun', 'Vijay Deverakonda', 'Allu Arjun']",['Koratal Siva'],1076
+Movie_78,['Action'],This is the overview of movie 77.,"['NTR', 'Sai Dharam Tej', 'Vijay Deverakonda']",['Sukumar'],1077
+Movie_79,['Thriller'],This is the overview of movie 78.,"['Chiranjeevi', 'Ram Charan', 'NTR']",['Boyapati Srinu'],1078
+Movie_80,['Drama'],This is the overview of movie 79.,"['Varun Tej', 'Chiranjeevi', 'Chiranjeevi']",['SS Rajamouli'],1079
+Movie_81,['Comedy'],This is the overview of movie 80.,"['Varun Tej', 'Vijay Deverakonda', 'NTR']",['Trivikram Srinivas'],1080
+Movie_82,['Comedy'],This is the overview of movie 81.,"['NTR', 'Allu Arjun', 'Ram Charan']",['Sukumar'],1081
+Movie_83,['Drama'],This is the overview of movie 82.,"['Varun Tej', 'Mahesh Babu', 'Prabhas']",['Sukumar'],1082
+Movie_84,['Drama'],This is the overview of movie 83.,"['Prabhas', 'Varun Tej', 'Mahesh Babu']",['Puri Jagannadh'],1083
+Movie_85,['Thriller'],This is the overview of movie 84.,"['Varun Tej', 'Vijay Deverakonda', 'NTR']",['Boyapati Srinu'],1084
+Movie_86,['Thriller'],This is the overview of movie 85.,"['Chiranjeevi', 'Varun Tej', 'Prabhas']",['SS Rajamouli'],1085
+Movie_87,['Drama'],This is the overview of movie 86.,"['Ram Charan', 'Prabhas', 'Vijay Deverakonda']",['Krish'],1086
+Movie_88,['Drama'],This is the overview of movie 87.,"['Allu Arjun', 'Vijay Deverakonda', 'Ram Charan']",['Sukumar'],1087
+Movie_89,['Romance'],This is the overview of movie 88.,"['Pawan Kalyan', 'Vijay Deverakonda', 'Allu Arjun']",['Koratal Siva'],1088
+Movie_90,['Romance'],This is the overview of movie 89.,"['Pawan Kalyan', 'Prabhas', 'Varun Tej']",['Trivikram Srinivas'],1089
+Movie_91,['Thriller'],This is the overview of movie 90.,"['Chiranjeevi', 'Vijay Deverakonda', 'Vijay Deverakonda']",['Koratal Siva'],1090
+Movie_92,['Drama'],This is the overview of movie 91.,"['Sai Dharam Tej', 'Varun Tej', 'Pawan Kalyan']",['SS Rajamouli'],1091
+Movie_93,['Drama'],This is the overview of movie 92.,"['Vijay Deverakonda', 'Prabhas', 'Varun Tej']",['Koratal Siva'],1092
+Movie_94,['Thriller'],This is the overview of movie 93.,"['Ram Charan', 'Allu Arjun', 'Prabhas']",['Krish'],1093
+Movie_95,['Action'],This is the overview of movie 94.,"['Prabhas', 'Chiranjeevi', 'Prabhas']",['Vamshi Paidipally'],1094
+Movie_96,['Thriller'],This is the overview of movie 95.,"['Mahesh Babu', 'NTR', 'Prabhas']",['Koratal Siva'],1095
+Movie_97,['Romance'],This is the overview of movie 96.,"['Mahesh Babu', 'Varun Tej', 'Sai Dharam Tej']",['SS Rajamouli'],1096
+Movie_98,['Drama'],This is the overview of movie 97.,"['Ram Charan', 'Mahesh Babu', 'NTR']",['Puri Jagannadh'],1097
+Movie_99,['Thriller'],This is the overview of movie 98.,"['Vijay Deverakonda', 'Pawan Kalyan', 'Mahesh Babu']",['Boyapati Srinu'],1098
+Movie_100,['Comedy'],This is the overview of movie 99.,"['Mahesh Babu', 'Ram Charan', 'Pawan Kalyan']",['SS Rajamouli'],1099
+Movie_101,['Thriller'],This is the overview of movie 100.,"['Allu Arjun', 'Ram Charan', 'Pawan Kalyan']",['Krish'],1100
+Movie_102,['Action'],This is the overview of movie 101.,"['Chiranjeevi', 'Allu Arjun', 'Vijay Deverakonda']",['Puri Jagannadh'],1101
+Movie_103,['Comedy'],This is the overview of movie 102.,"['Ram Charan', 'Ram Charan', 'Sai Dharam Tej']",['Boyapati Srinu'],1102
+Movie_104,['Thriller'],This is the overview of movie 103.,"['Allu Arjun', 'Allu Arjun', 'Allu Arjun']",['Trivikram Srinivas'],1103
+Movie_105,['Thriller'],This is the overview of movie 104.,"['Chiranjeevi', 'Sai Dharam Tej', 'Allu Arjun']",['Puri Jagannadh'],1104
+Movie_106,['Drama'],This is the overview of movie 105.,"['Sai Dharam Tej', 'Mahesh Babu', 'NTR']",['Koratal Siva'],1105
+Movie_107,['Thriller'],This is the overview of movie 106.,"['Chiranjeevi', 'Prabhas', 'Varun Tej']",['Puri Jagannadh'],1106
+Movie_108,['Thriller'],This is the overview of movie 107.,"['Pawan Kalyan', 'Prabhas', 'Chiranjeevi']",['Koratal Siva'],1107
+Movie_109,['Thriller'],This is the overview of movie 108.,"['Prabhas', 'Varun Tej', 'Sai Dharam Tej']",['Boyapati Srinu'],1108
+Movie_110,['Thriller'],This is the overview of movie 109.,"['Mahesh Babu', 'Ram Charan', 'Prabhas']",['Trivikram Srinivas'],1109
+Movie_111,['Comedy'],This is the overview of movie 110.,"['Sai Dharam Tej', 'Prabhas', 'Pawan Kalyan']",['Trivikram Srinivas'],1110
+Movie_112,['Romance'],This is the overview of movie 111.,"['Ram Charan', 'Vijay Deverakonda', 'Pawan Kalyan']",['SS Rajamouli'],1111
+Movie_113,['Thriller'],This is the overview of movie 112.,"['Allu Arjun', 'Allu Arjun', 'Ram Charan']",['Sukumar'],1112
+Movie_114,['Thriller'],This is the overview of movie 113.,"['Sai Dharam Tej', 'Sai Dharam Tej', 'Vijay Deverakonda']",['Vamshi Paidipally'],1113
+Movie_115,['Drama'],This is the overview of movie 114.,"['Pawan Kalyan', 'Pawan Kalyan', 'Prabhas']",['Koratal Siva'],1114
+Movie_116,['Thriller'],This is the overview of movie 115.,"['Ram Charan', 'Vijay Deverakonda', 'NTR']",['Krish'],1115
+Movie_117,['Comedy'],This is the overview of movie 116.,"['Allu Arjun', 'Vijay Deverakonda', 'Chiranjeevi']",['Trivikram Srinivas'],1116
+Movie_118,['Action'],This is the overview of movie 117.,"['NTR', 'Sai Dharam Tej', 'Vijay Deverakonda']",['Koratal Siva'],1117
+Movie_119,['Comedy'],This is the overview of movie 118.,"['Allu Arjun', 'Sai Dharam Tej', 'Chiranjeevi']",['Puri Jagannadh'],1118
+Movie_120,['Action'],This is the overview of movie 119.,"['Chiranjeevi', 'Pawan Kalyan', 'Allu Arjun']",['Vamshi Paidipally'],1119
+Movie_121,['Romance'],This is the overview of movie 120.,"['Ram Charan', 'Pawan Kalyan', 'Mahesh Babu']",['Koratal Siva'],1120
+Movie_122,['Comedy'],This is the overview of movie 121.,"['Mahesh Babu', 'Varun Tej', 'Ram Charan']",['Vamshi Paidipally'],1121
+Movie_123,['Thriller'],This is the overview of movie 122.,"['Ram Charan', 'Allu Arjun', 'Ram Charan']",['SS Rajamouli'],1122
+Movie_124,['Action'],This is the overview of movie 123.,"['Mahesh Babu', 'Varun Tej', 'Mahesh Babu']",['Puri Jagannadh'],1123
+Movie_125,['Thriller'],This is the overview of movie 124.,"['NTR', 'NTR', 'NTR']",['Vamshi Paidipally'],1124
+Movie_126,['Thriller'],This is the overview of movie 125.,"['Mahesh Babu', 'NTR', 'Sai Dharam Tej']",['Trivikram Srinivas'],1125
+Movie_127,['Action'],This is the overview of movie 126.,"['Chiranjeevi', 'NTR', 'Vijay Deverakonda']",['Koratal Siva'],1126
+Movie_128,['Action'],This is the overview of movie 127.,"['Chiranjeevi', 'Vijay Deverakonda', 'Prabhas']",['Puri Jagannadh'],1127
+Movie_129,['Thriller'],This is the overview of movie 128.,"['Prabhas', 'Allu Arjun', 'Varun Tej']",['Vamshi Paidipally'],1128
+Movie_130,['Drama'],This is the overview of movie 129.,"['Chiranjeevi', 'Pawan Kalyan', 'Mahesh Babu']",['Trivikram Srinivas'],1129
+Movie_131,['Action'],This is the overview of movie 130.,"['Allu Arjun', 'Mahesh Babu', 'NTR']",['Koratal Siva'],1130
+Movie_132,['Comedy'],This is the overview of movie 131.,"['Chiranjeevi', 'Varun Tej', 'Varun Tej']",['Puri Jagannadh'],1131
+Movie_133,['Action'],This is the overview of movie 132.,"['Allu Arjun', 'Vijay Deverakonda', 'Ram Charan']",['Trivikram Srinivas'],1132
+Movie_134,['Action'],This is the overview of movie 133.,"['Chiranjeevi', 'Sai Dharam Tej', 'NTR']",['Trivikram Srinivas'],1133
+Movie_135,['Drama'],This is the overview of movie 134.,"['Mahesh Babu', 'Allu Arjun', 'Pawan Kalyan']",['Vamshi Paidipally'],1134
+Movie_136,['Romance'],This is the overview of movie 135.,"['Vijay Deverakonda', 'Prabhas', 'Pawan Kalyan']",['Boyapati Srinu'],1135
+Movie_137,['Comedy'],This is the overview of movie 136.,"['Mahesh Babu', 'Chiranjeevi', 'Vijay Deverakonda']",['SS Rajamouli'],1136
+Movie_138,['Romance'],This is the overview of movie 137.,"['NTR', 'Ram Charan', 'NTR']",['SS Rajamouli'],1137
+Movie_139,['Action'],This is the overview of movie 138.,"['Vijay Deverakonda', 'Ram Charan', 'Sai Dharam Tej']",['Krish'],1138
+Movie_140,['Romance'],This is the overview of movie 139.,"['Prabhas', 'Pawan Kalyan', 'NTR']",['Trivikram Srinivas'],1139
+Movie_141,['Thriller'],This is the overview of movie 140.,"['NTR', 'NTR', 'Sai Dharam Tej']",['Trivikram Srinivas'],1140
+Movie_142,['Drama'],This is the overview of movie 141.,"['NTR', 'Allu Arjun', 'Prabhas']",['Puri Jagannadh'],1141
+Movie_143,['Thriller'],This is the overview of movie 142.,"['Vijay Deverakonda', 'NTR', 'Varun Tej']",['Krish'],1142
+Movie_144,['Romance'],This is the overview of movie 143.,"['Pawan Kalyan', 'Vijay Deverakonda', 'Vijay Deverakonda']",['SS Rajamouli'],1143
+Movie_145,['Romance'],This is the overview of movie 144.,"['Mahesh Babu', 'Vijay Deverakonda', 'Ram Charan']",['SS Rajamouli'],1144
+Movie_146,['Drama'],This is the overview of movie 145.,"['NTR', 'Sai Dharam Tej', 'Mahesh Babu']",['Puri Jagannadh'],1145
+Movie_147,['Drama'],This is the overview of movie 146.,"['Chiranjeevi', 'Allu Arjun', 'Pawan Kalyan']",['Sukumar'],1146
+Movie_148,['Comedy'],This is the overview of movie 147.,"['Mahesh Babu', 'Ram Charan', 'Prabhas']",['Koratal Siva'],1147
+Movie_149,['Action'],This is the overview of movie 148.,"['Allu Arjun', 'Prabhas', 'Varun Tej']",['Trivikram Srinivas'],1148
+Movie_150,['Action'],This is the overview of movie 149.,"['Vijay Deverakonda', 'Vijay Deverakonda', 'Sai Dharam Tej']",['Puri Jagannadh'],1149
+Movie_151,['Thriller'],This is the overview of movie 150.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'Allu Arjun']",['SS Rajamouli'],1150
+Movie_152,['Romance'],This is the overview of movie 151.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'Vijay Deverakonda']",['SS Rajamouli'],1151
+Movie_153,['Comedy'],This is the overview of movie 152.,"['Ram Charan', 'Ram Charan', 'Vijay Deverakonda']",['Vamshi Paidipally'],1152
+Movie_154,['Drama'],This is the overview of movie 153.,"['Chiranjeevi', 'Allu Arjun', 'Mahesh Babu']",['Trivikram Srinivas'],1153
+Movie_155,['Drama'],This is the overview of movie 154.,"['NTR', 'Pawan Kalyan', 'Sai Dharam Tej']",['Koratal Siva'],1154
+Movie_156,['Action'],This is the overview of movie 155.,"['Ram Charan', 'Prabhas', 'Prabhas']",['SS Rajamouli'],1155
+Movie_157,['Romance'],This is the overview of movie 156.,"['Chiranjeevi', 'Ram Charan', 'Vijay Deverakonda']",['Krish'],1156
+Movie_158,['Comedy'],This is the overview of movie 157.,"['Pawan Kalyan', 'Prabhas', 'Mahesh Babu']",['Puri Jagannadh'],1157
+Movie_159,['Comedy'],This is the overview of movie 158.,"['Vijay Deverakonda', 'Chiranjeevi', 'Ram Charan']",['Koratal Siva'],1158
+Movie_160,['Drama'],This is the overview of movie 159.,"['NTR', 'Sai Dharam Tej', 'Chiranjeevi']",['Puri Jagannadh'],1159
+Movie_161,['Drama'],This is the overview of movie 160.,"['Vijay Deverakonda', 'Chiranjeevi', 'Prabhas']",['Sukumar'],1160
+Movie_162,['Thriller'],This is the overview of movie 161.,"['Sai Dharam Tej', 'Sai Dharam Tej', 'NTR']",['Trivikram Srinivas'],1161
+Movie_163,['Romance'],This is the overview of movie 162.,"['Prabhas', 'Mahesh Babu', 'Sai Dharam Tej']",['Boyapati Srinu'],1162
+Movie_164,['Thriller'],This is the overview of movie 163.,"['Prabhas', 'Prabhas', 'Chiranjeevi']",['Trivikram Srinivas'],1163
+Movie_165,['Thriller'],This is the overview of movie 164.,"['Chiranjeevi', 'Prabhas', 'Mahesh Babu']",['Boyapati Srinu'],1164
+Movie_166,['Comedy'],This is the overview of movie 165.,"['NTR', 'Pawan Kalyan', 'Vijay Deverakonda']",['Trivikram Srinivas'],1165
+Movie_167,['Comedy'],This is the overview of movie 166.,"['Pawan Kalyan', 'Sai Dharam Tej', 'Varun Tej']",['Puri Jagannadh'],1166
+Movie_168,['Thriller'],This is the overview of movie 167.,"['Chiranjeevi', 'NTR', 'Varun Tej']",['Krish'],1167
+Movie_169,['Drama'],This is the overview of movie 168.,"['NTR', 'Allu Arjun', 'Chiranjeevi']",['Boyapati Srinu'],1168
+Movie_170,['Drama'],This is the overview of movie 169.,"['Prabhas', 'Varun Tej', 'Prabhas']",['Sukumar'],1169
+Movie_171,['Action'],This is the overview of movie 170.,"['Pawan Kalyan', 'Sai Dharam Tej', 'NTR']",['Sukumar'],1170
+Movie_172,['Romance'],This is the overview of movie 171.,"['Vijay Deverakonda', 'Allu Arjun', 'Varun Tej']",['Trivikram Srinivas'],1171
+Movie_173,['Action'],This is the overview of movie 172.,"['Pawan Kalyan', 'Ram Charan', 'Pawan Kalyan']",['Sukumar'],1172
+Movie_174,['Action'],This is the overview of movie 173.,"['Mahesh Babu', 'NTR', 'Allu Arjun']",['Vamshi Paidipally'],1173
+Movie_175,['Action'],This is the overview of movie 174.,"['Chiranjeevi', 'Prabhas', 'NTR']",['Puri Jagannadh'],1174
+Movie_176,['Action'],This is the overview of movie 175.,"['Chiranjeevi', 'Mahesh Babu', 'Prabhas']",['Puri Jagannadh'],1175
+Movie_177,['Action'],This is the overview of movie 176.,"['Varun Tej', 'Allu Arjun', 'Vijay Deverakonda']",['Trivikram Srinivas'],1176
+Movie_178,['Romance'],This is the overview of movie 177.,"['Varun Tej', 'Prabhas', 'Chiranjeevi']",['Puri Jagannadh'],1177
+Movie_179,['Thriller'],This is the overview of movie 178.,"['Prabhas', 'Ram Charan', 'Allu Arjun']",['Vamshi Paidipally'],1178
+Movie_180,['Romance'],This is the overview of movie 179.,"['Ram Charan', 'Vijay Deverakonda', 'Varun Tej']",['SS Rajamouli'],1179
+Movie_181,['Romance'],This is the overview of movie 180.,"['Ram Charan', 'Chiranjeevi', 'Varun Tej']",['Krish'],1180
+Movie_182,['Romance'],This is the overview of movie 181.,"['Prabhas', 'Prabhas', 'Allu Arjun']",['Puri Jagannadh'],1181
+Movie_183,['Drama'],This is the overview of movie 182.,"['Chiranjeevi', 'Ram Charan', 'Vijay Deverakonda']",['Krish'],1182
+Movie_184,['Comedy'],This is the overview of movie 183.,"['Varun Tej', 'Mahesh Babu', 'Allu Arjun']",['SS Rajamouli'],1183
+Movie_185,['Comedy'],This is the overview of movie 184.,"['Chiranjeevi', 'Prabhas', 'Pawan Kalyan']",['Trivikram Srinivas'],1184
+Movie_186,['Action'],This is the overview of movie 185.,"['NTR', 'Prabhas', 'Vijay Deverakonda']",['Boyapati Srinu'],1185
+Movie_187,['Comedy'],This is the overview of movie 186.,"['NTR', 'Chiranjeevi', 'Chiranjeevi']",['Krish'],1186
+Movie_188,['Comedy'],This is the overview of movie 187.,"['Vijay Deverakonda', 'Allu Arjun', 'Varun Tej']",['Sukumar'],1187
+Movie_189,['Action'],This is the overview of movie 188.,"['Ram Charan', 'Ram Charan', 'Sai Dharam Tej']",['Trivikram Srinivas'],1188
+Movie_190,['Thriller'],This is the overview of movie 189.,"['Chiranjeevi', 'Prabhas', 'Vijay Deverakonda']",['Koratal Siva'],1189
+Movie_191,['Thriller'],This is the overview of movie 190.,"['Pawan Kalyan', 'Chiranjeevi', 'Varun Tej']",['SS Rajamouli'],1190
+Movie_192,['Thriller'],This is the overview of movie 191.,"['NTR', 'NTR', 'Allu Arjun']",['Koratal Siva'],1191
+Movie_193,['Thriller'],This is the overview of movie 192.,"['Allu Arjun', 'Allu Arjun', 'Sai Dharam Tej']",['Boyapati Srinu'],1192
+Movie_194,['Drama'],This is the overview of movie 193.,"['Chiranjeevi', 'Pawan Kalyan', 'NTR']",['Puri Jagannadh'],1193
+Movie_195,['Action'],This is the overview of movie 194.,"['Vijay Deverakonda', 'Prabhas', 'Sai Dharam Tej']",['Puri Jagannadh'],1194
+Movie_196,['Drama'],This is the overview of movie 195.,"['Prabhas', 'Ram Charan', 'Mahesh Babu']",['Trivikram Srinivas'],1195
+Movie_197,['Drama'],This is the overview of movie 196.,"['Allu Arjun', 'Varun Tej', 'Vijay Deverakonda']",['Sukumar'],1196
+Movie_198,['Comedy'],This is the overview of movie 197.,"['Prabhas', 'Ram Charan', 'NTR']",['Koratal Siva'],1197
+Movie_199,['Comedy'],This is the overview of movie 198.,"['Vijay Deverakonda', 'Allu Arjun', 'Pawan Kalyan']",['Boyapati Srinu'],1198
+Movie_200,['Comedy'],This is the overview of movie 199.,"['Vijay Deverakonda', 'Pawan Kalyan', 'Chiranjeevi']",['Krish'],1199
+Movie_201,['Action'],This is the overview of movie 200.,"['Prabhas', 'Allu Arjun', 'Varun Tej']",['Puri Jagannadh'],1200
+Movie_202,['Drama'],This is the overview of movie 201.,"['Sai Dharam Tej', 'Ram Charan', 'Vijay Deverakonda']",['SS Rajamouli'],1201
+Movie_203,['Comedy'],This is the overview of movie 202.,"['Varun Tej', 'Sai Dharam Tej', 'Prabhas']",['Trivikram Srinivas'],1202
+Movie_204,['Thriller'],This is the overview of movie 203.,"['NTR', 'Ram Charan', 'Sai Dharam Tej']",['Trivikram Srinivas'],1203
+Movie_205,['Comedy'],This is the overview of movie 204.,"['Chiranjeevi', 'Mahesh Babu', 'NTR']",['Puri Jagannadh'],1204
+Movie_206,['Romance'],This is the overview of movie 205.,"['Chiranjeevi', 'Allu Arjun', 'Pawan Kalyan']",['Trivikram Srinivas'],1205
+Movie_207,['Comedy'],This is the overview of movie 206.,"['Ram Charan', 'Chiranjeevi', 'Mahesh Babu']",['Boyapati Srinu'],1206
+Movie_208,['Comedy'],This is the overview of movie 207.,"['NTR', 'Sai Dharam Tej', 'Pawan Kalyan']",['Krish'],1207
+Movie_209,['Comedy'],This is the overview of movie 208.,"['NTR', 'Chiranjeevi', 'Vijay Deverakonda']",['Koratal Siva'],1208
+Movie_210,['Drama'],This is the overview of movie 209.,"['Allu Arjun', 'Allu Arjun', 'Varun Tej']",['Krish'],1209
+Movie_211,['Thriller'],This is the overview of movie 210.,"['Sai Dharam Tej', 'NTR', 'Chiranjeevi']",['Vamshi Paidipally'],1210
+Movie_212,['Drama'],This is the overview of movie 211.,"['NTR', 'Allu Arjun', 'Sai Dharam Tej']",['Krish'],1211
+Movie_213,['Comedy'],This is the overview of movie 212.,"['Ram Charan', 'Varun Tej', 'Chiranjeevi']",['SS Rajamouli'],1212
+Movie_214,['Drama'],This is the overview of movie 213.,"['NTR', 'Vijay Deverakonda', 'Vijay Deverakonda']",['Koratal Siva'],1213
+Movie_215,['Thriller'],This is the overview of movie 214.,"['NTR', 'NTR', 'Sai Dharam Tej']",['Krish'],1214
+Movie_216,['Action'],This is the overview of movie 215.,"['NTR', 'Mahesh Babu', 'Chiranjeevi']",['Puri Jagannadh'],1215
+Movie_217,['Comedy'],This is the overview of movie 216.,"['NTR', 'Mahesh Babu', 'Chiranjeevi']",['Koratal Siva'],1216
+Movie_218,['Romance'],This is the overview of movie 217.,"['Chiranjeevi', 'Varun Tej', 'NTR']",['Krish'],1217
+Movie_219,['Romance'],This is the overview of movie 218.,"['Sai Dharam Tej', 'Chiranjeevi', 'Mahesh Babu']",['Krish'],1218
+Movie_220,['Action'],This is the overview of movie 219.,"['Ram Charan', 'Chiranjeevi', 'Pawan Kalyan']",['Krish'],1219
+Movie_221,['Romance'],This is the overview of movie 220.,"['Vijay Deverakonda', 'Prabhas', 'Prabhas']",['Sukumar'],1220
+Movie_222,['Action'],This is the overview of movie 221.,"['Pawan Kalyan', 'Varun Tej', 'Prabhas']",['SS Rajamouli'],1221
+Movie_223,['Romance'],This is the overview of movie 222.,"['Pawan Kalyan', 'Chiranjeevi', 'Ram Charan']",['SS Rajamouli'],1222
+Movie_224,['Action'],This is the overview of movie 223.,"['Prabhas', 'Vijay Deverakonda', 'Sai Dharam Tej']",['Sukumar'],1223
+Movie_225,['Romance'],This is the overview of movie 224.,"['NTR', 'Pawan Kalyan', 'Sai Dharam Tej']",['Trivikram Srinivas'],1224
+Movie_226,['Drama'],This is the overview of movie 225.,"['Vijay Deverakonda', 'Chiranjeevi', 'NTR']",['SS Rajamouli'],1225
+Movie_227,['Comedy'],This is the overview of movie 226.,"['Allu Arjun', 'Allu Arjun', 'Pawan Kalyan']",['SS Rajamouli'],1226
+Movie_228,['Thriller'],This is the overview of movie 227.,"['Prabhas', 'Sai Dharam Tej', 'Mahesh Babu']",['Krish'],1227
+Movie_229,['Action'],This is the overview of movie 228.,"['NTR', 'Vijay Deverakonda', 'Vijay Deverakonda']",['Trivikram Srinivas'],1228
+Movie_230,['Comedy'],This is the overview of movie 229.,"['Ram Charan', 'Ram Charan', 'Sai Dharam Tej']",['Boyapati Srinu'],1229
+Movie_231,['Thriller'],This is the overview of movie 230.,"['Prabhas', 'Pawan Kalyan', 'Prabhas']",['Boyapati Srinu'],1230
+Movie_232,['Comedy'],This is the overview of movie 231.,"['Allu Arjun', 'Mahesh Babu', 'Ram Charan']",['SS Rajamouli'],1231
+Movie_233,['Comedy'],This is the overview of movie 232.,"['Chiranjeevi', 'Ram Charan', 'Prabhas']",['Vamshi Paidipally'],1232
+Movie_234,['Action'],This is the overview of movie 233.,"['Vijay Deverakonda', 'Allu Arjun', 'Prabhas']",['Boyapati Srinu'],1233
+Movie_235,['Comedy'],This is the overview of movie 234.,"['Sai Dharam Tej', 'Prabhas', 'Prabhas']",['SS Rajamouli'],1234
+Movie_236,['Action'],This is the overview of movie 235.,"['Sai Dharam Tej', 'Prabhas', 'Pawan Kalyan']",['Puri Jagannadh'],1235
+Movie_237,['Action'],This is the overview of movie 236.,"['Ram Charan', 'Vijay Deverakonda', 'Chiranjeevi']",['Sukumar'],1236
+Movie_238,['Drama'],This is the overview of movie 237.,"['Vijay Deverakonda', 'Sai Dharam Tej', 'Mahesh Babu']",['SS Rajamouli'],1237
+Movie_239,['Romance'],This is the overview of movie 238.,"['Vijay Deverakonda', 'Sai Dharam Tej', 'Prabhas']",['Sukumar'],1238
+Movie_240,['Romance'],This is the overview of movie 239.,"['NTR', 'Pawan Kalyan', 'NTR']",['Puri Jagannadh'],1239
+Movie_241,['Comedy'],This is the overview of movie 240.,"['Ram Charan', 'Sai Dharam Tej', 'Allu Arjun']",['Koratal Siva'],1240
+Movie_242,['Romance'],This is the overview of movie 241.,"['Allu Arjun', 'Varun Tej', 'NTR']",['Sukumar'],1241
+Movie_243,['Comedy'],This is the overview of movie 242.,"['Pawan Kalyan', 'Allu Arjun', 'Chiranjeevi']",['Trivikram Srinivas'],1242
+Movie_244,['Drama'],This is the overview of movie 243.,"['Vijay Deverakonda', 'Vijay Deverakonda', 'NTR']",['Vamshi Paidipally'],1243
+Movie_245,['Romance'],This is the overview of movie 244.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'Chiranjeevi']",['Sukumar'],1244
+Movie_246,['Comedy'],This is the overview of movie 245.,"['Chiranjeevi', 'Varun Tej', 'Allu Arjun']",['Trivikram Srinivas'],1245
+Movie_247,['Drama'],This is the overview of movie 246.,"['Chiranjeevi', 'Allu Arjun', 'Vijay Deverakonda']",['Boyapati Srinu'],1246
+Movie_248,['Action'],This is the overview of movie 247.,"['Ram Charan', 'Prabhas', 'Vijay Deverakonda']",['Krish'],1247
+Movie_249,['Comedy'],This is the overview of movie 248.,"['Sai Dharam Tej', 'Chiranjeevi', 'Allu Arjun']",['Trivikram Srinivas'],1248
+Movie_250,['Action'],This is the overview of movie 249.,"['Prabhas', 'Prabhas', 'NTR']",['Puri Jagannadh'],1249
+Movie_251,['Action'],This is the overview of movie 250.,"['Vijay Deverakonda', 'NTR', 'Varun Tej']",['Trivikram Srinivas'],1250
+Movie_252,['Romance'],This is the overview of movie 251.,"['Allu Arjun', 'NTR', 'Allu Arjun']",['Puri Jagannadh'],1251
+Movie_253,['Romance'],This is the overview of movie 252.,"['Sai Dharam Tej', 'NTR', 'Ram Charan']",['Krish'],1252
+Movie_254,['Thriller'],This is the overview of movie 253.,"['Sai Dharam Tej', 'Varun Tej', 'Allu Arjun']",['Vamshi Paidipally'],1253
+Movie_255,['Romance'],This is the overview of movie 254.,"['Vijay Deverakonda', 'Prabhas', 'Prabhas']",['Vamshi Paidipally'],1254
+Movie_256,['Drama'],This is the overview of movie 255.,"['Mahesh Babu', 'Sai Dharam Tej', 'NTR']",['Trivikram Srinivas'],1255
+Movie_257,['Thriller'],This is the overview of movie 256.,"['Chiranjeevi', 'Sai Dharam Tej', 'Prabhas']",['Trivikram Srinivas'],1256
+Movie_258,['Comedy'],This is the overview of movie 257.,"['Varun Tej', 'Chiranjeevi', 'Varun Tej']",['Boyapati Srinu'],1257
+Movie_259,['Thriller'],This is the overview of movie 258.,"['Pawan Kalyan', 'Ram Charan', 'Allu Arjun']",['Boyapati Srinu'],1258
+Movie_260,['Thriller'],This is the overview of movie 259.,"['Varun Tej', 'Pawan Kalyan', 'Mahesh Babu']",['Krish'],1259
+Movie_261,['Romance'],This is the overview of movie 260.,"['Sai Dharam Tej', 'Prabhas', 'Chiranjeevi']",['Puri Jagannadh'],1260
+Movie_262,['Action'],This is the overview of movie 261.,"['Sai Dharam Tej', 'Prabhas', 'NTR']",['SS Rajamouli'],1261
+Movie_263,['Romance'],This is the overview of movie 262.,"['Chiranjeevi', 'Sai Dharam Tej', 'NTR']",['SS Rajamouli'],1262
+Movie_264,['Action'],This is the overview of movie 263.,"['Chiranjeevi', 'Ram Charan', 'Chiranjeevi']",['Sukumar'],1263
+Movie_265,['Comedy'],This is the overview of movie 264.,"['NTR', 'NTR', 'Allu Arjun']",['Trivikram Srinivas'],1264
+Movie_266,['Drama'],This is the overview of movie 265.,"['Sai Dharam Tej', 'Mahesh Babu', 'Pawan Kalyan']",['Koratal Siva'],1265
+Movie_267,['Comedy'],This is the overview of movie 266.,"['Mahesh Babu', 'NTR', 'Prabhas']",['Koratal Siva'],1266
+Movie_268,['Action'],This is the overview of movie 267.,"['NTR', 'Pawan Kalyan', 'Mahesh Babu']",['Krish'],1267
+Movie_269,['Action'],This is the overview of movie 268.,"['Chiranjeevi', 'Prabhas', 'Varun Tej']",['Koratal Siva'],1268
+Movie_270,['Comedy'],This is the overview of movie 269.,"['Ram Charan', 'Mahesh Babu', 'Varun Tej']",['Koratal Siva'],1269
+Movie_271,['Comedy'],This is the overview of movie 270.,"['Sai Dharam Tej', 'Pawan Kalyan', 'Mahesh Babu']",['Vamshi Paidipally'],1270
+Movie_272,['Drama'],This is the overview of movie 271.,"['Prabhas', 'NTR', 'Varun Tej']",['SS Rajamouli'],1271
+Movie_273,['Action'],This is the overview of movie 272.,"['Pawan Kalyan', 'Ram Charan', 'Allu Arjun']",['Trivikram Srinivas'],1272
+Movie_274,['Action'],This is the overview of movie 273.,"['Vijay Deverakonda', 'Prabhas', 'Allu Arjun']",['Koratal Siva'],1273
+Movie_275,['Thriller'],This is the overview of movie 274.,"['Mahesh Babu', 'Ram Charan', 'Pawan Kalyan']",['Koratal Siva'],1274
+Movie_276,['Romance'],This is the overview of movie 275.,"['NTR', 'NTR', 'Sai Dharam Tej']",['SS Rajamouli'],1275
+Movie_277,['Action'],This is the overview of movie 276.,"['Pawan Kalyan', 'Pawan Kalyan', 'Sai Dharam Tej']",['Boyapati Srinu'],1276
+Movie_278,['Comedy'],This is the overview of movie 277.,"['Pawan Kalyan', 'Allu Arjun', 'Sai Dharam Tej']",['Krish'],1277
+Movie_279,['Action'],This is the overview of movie 278.,"['Vijay Deverakonda', 'Mahesh Babu', 'Sai Dharam Tej']",['Koratal Siva'],1278
+Movie_280,['Action'],This is the overview of movie 279.,"['Ram Charan', 'Mahesh Babu', 'NTR']",['Sukumar'],1279
+Movie_281,['Action'],This is the overview of movie 280.,"['Pawan Kalyan', 'Sai Dharam Tej', 'Varun Tej']",['Vamshi Paidipally'],1280
+Movie_282,['Thriller'],This is the overview of movie 281.,"['Varun Tej', 'Chiranjeevi', 'Chiranjeevi']",['Sukumar'],1281
+Movie_283,['Thriller'],This is the overview of movie 282.,"['Allu Arjun', 'Pawan Kalyan', 'Pawan Kalyan']",['Boyapati Srinu'],1282
+Movie_284,['Action'],This is the overview of movie 283.,"['Vijay Deverakonda', 'NTR', 'Ram Charan']",['Koratal Siva'],1283
+Movie_285,['Romance'],This is the overview of movie 284.,"['Prabhas', 'Sai Dharam Tej', 'Ram Charan']",['SS Rajamouli'],1284
+Movie_286,['Drama'],This is the overview of movie 285.,"['Pawan Kalyan', 'NTR', 'Ram Charan']",['Koratal Siva'],1285
+Movie_287,['Action'],This is the overview of movie 286.,"['Pawan Kalyan', 'Chiranjeevi', 'NTR']",['Koratal Siva'],1286
+Movie_288,['Comedy'],This is the overview of movie 287.,"['Ram Charan', 'Mahesh Babu', 'Sai Dharam Tej']",['Trivikram Srinivas'],1287
+Movie_289,['Action'],This is the overview of movie 288.,"['Ram Charan', 'Allu Arjun', 'Sai Dharam Tej']",['Puri Jagannadh'],1288
+Movie_290,['Drama'],This is the overview of movie 289.,"['Sai Dharam Tej', 'Mahesh Babu', 'Allu Arjun']",['Sukumar'],1289
+Movie_291,['Comedy'],This is the overview of movie 290.,"['Varun Tej', 'Mahesh Babu', 'NTR']",['Puri Jagannadh'],1290
+Movie_292,['Thriller'],This is the overview of movie 291.,"['Pawan Kalyan', 'NTR', 'Pawan Kalyan']",['Krish'],1291
+Movie_293,['Drama'],This is the overview of movie 292.,"['Prabhas', 'Allu Arjun', 'NTR']",['Puri Jagannadh'],1292
+Movie_294,['Thriller'],This is the overview of movie 293.,"['Pawan Kalyan', 'NTR', 'Chiranjeevi']",['Krish'],1293
+Movie_295,['Drama'],This is the overview of movie 294.,"['Allu Arjun', 'Mahesh Babu', 'Prabhas']",['Boyapati Srinu'],1294
+Movie_296,['Drama'],This is the overview of movie 295.,"['Allu Arjun', 'NTR', 'Varun Tej']",['Sukumar'],1295
+Movie_297,['Drama'],This is the overview of movie 296.,"['Allu Arjun', 'Chiranjeevi', 'Chiranjeevi']",['Krish'],1296
+Movie_298,['Comedy'],This is the overview of movie 297.,"['NTR', 'Ram Charan', 'Vijay Deverakonda']",['Krish'],1297
+Movie_299,['Thriller'],This is the overview of movie 298.,"['Chiranjeevi', 'NTR', 'Allu Arjun']",['Koratal Siva'],1298
+Movie_300,['Thriller'],This is the overview of movie 299.,"['Allu Arjun', 'Vijay Deverakonda', 'NTR']",['Trivikram Srinivas'],1299
+Movie_301,['Comedy'],This is the overview of movie 300.,"['Mahesh Babu', 'Chiranjeevi', 'Varun Tej']",['Boyapati Srinu'],1300
+Movie_302,['Romance'],This is the overview of movie 301.,"['Ram Charan', 'Sai Dharam Tej', 'Sai Dharam Tej']",['Krish'],1301
+Movie_303,['Romance'],This is the overview of movie 302.,"['NTR', 'Sai Dharam Tej', 'Pawan Kalyan']",['Koratal Siva'],1302
+Movie_304,['Romance'],This is the overview of movie 303.,"['Pawan Kalyan', 'Chiranjeevi', 'Pawan Kalyan']",['SS Rajamouli'],1303
+Movie_305,['Thriller'],This is the overview of movie 304.,"['NTR', 'Sai Dharam Tej', 'Chiranjeevi']",['SS Rajamouli'],1304
+Movie_306,['Action'],This is the overview of movie 305.,"['Allu Arjun', 'Sai Dharam Tej', 'Chiranjeevi']",['Krish'],1305
+Movie_307,['Drama'],This is the overview of movie 306.,"['Ram Charan', 'Sai Dharam Tej', 'Prabhas']",['Boyapati Srinu'],1306
+Movie_308,['Comedy'],This is the overview of movie 307.,"['Varun Tej', 'Ram Charan', 'Allu Arjun']",['Sukumar'],1307
+Movie_309,['Comedy'],This is the overview of movie 308.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'Sai Dharam Tej']",['Trivikram Srinivas'],1308
+Movie_310,['Comedy'],This is the overview of movie 309.,"['Allu Arjun', 'Chiranjeevi', 'Mahesh Babu']",['Koratal Siva'],1309
+Movie_311,['Drama'],This is the overview of movie 310.,"['NTR', 'Pawan Kalyan', 'Vijay Deverakonda']",['Krish'],1310
+Movie_312,['Action'],This is the overview of movie 311.,"['Chiranjeevi', 'Chiranjeevi', 'Sai Dharam Tej']",['Sukumar'],1311
+Movie_313,['Action'],This is the overview of movie 312.,"['Prabhas', 'Vijay Deverakonda', 'NTR']",['Krish'],1312
+Movie_314,['Romance'],This is the overview of movie 313.,"['Sai Dharam Tej', 'Prabhas', 'Prabhas']",['Koratal Siva'],1313
+Movie_315,['Action'],This is the overview of movie 314.,"['Varun Tej', 'Prabhas', 'Ram Charan']",['Krish'],1314
+Movie_316,['Thriller'],This is the overview of movie 315.,"['Varun Tej', 'Varun Tej', 'Allu Arjun']",['Boyapati Srinu'],1315
+Movie_317,['Comedy'],This is the overview of movie 316.,"['Ram Charan', 'Chiranjeevi', 'Prabhas']",['SS Rajamouli'],1316
+Movie_318,['Thriller'],This is the overview of movie 317.,"['Vijay Deverakonda', 'Varun Tej', 'Allu Arjun']",['SS Rajamouli'],1317
+Movie_319,['Comedy'],This is the overview of movie 318.,"['NTR', 'Pawan Kalyan', 'Varun Tej']",['Vamshi Paidipally'],1318
+Movie_320,['Drama'],This is the overview of movie 319.,"['Prabhas', 'Pawan Kalyan', 'Chiranjeevi']",['Puri Jagannadh'],1319
+Movie_321,['Thriller'],This is the overview of movie 320.,"['Pawan Kalyan', 'Vijay Deverakonda', 'Ram Charan']",['Trivikram Srinivas'],1320
+Movie_322,['Drama'],This is the overview of movie 321.,"['NTR', 'Prabhas', 'Pawan Kalyan']",['Boyapati Srinu'],1321
+Movie_323,['Action'],This is the overview of movie 322.,"['Vijay Deverakonda', 'Mahesh Babu', 'Ram Charan']",['Sukumar'],1322
+Movie_324,['Drama'],This is the overview of movie 323.,"['Ram Charan', 'Ram Charan', 'Ram Charan']",['Sukumar'],1323
+Movie_325,['Romance'],This is the overview of movie 324.,"['Pawan Kalyan', 'Pawan Kalyan', 'Chiranjeevi']",['SS Rajamouli'],1324
+Movie_326,['Comedy'],This is the overview of movie 325.,"['NTR', 'Pawan Kalyan', 'Ram Charan']",['Krish'],1325
+Movie_327,['Thriller'],This is the overview of movie 326.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'NTR']",['SS Rajamouli'],1326
+Movie_328,['Comedy'],This is the overview of movie 327.,"['Allu Arjun', 'NTR', 'Prabhas']",['Puri Jagannadh'],1327
+Movie_329,['Romance'],This is the overview of movie 328.,"['Prabhas', 'Prabhas', 'Ram Charan']",['Vamshi Paidipally'],1328
+Movie_330,['Thriller'],This is the overview of movie 329.,"['Prabhas', 'Pawan Kalyan', 'Sai Dharam Tej']",['Trivikram Srinivas'],1329
+Movie_331,['Drama'],This is the overview of movie 330.,"['Ram Charan', 'Chiranjeevi', 'Varun Tej']",['Krish'],1330
+Movie_332,['Action'],This is the overview of movie 331.,"['NTR', 'Pawan Kalyan', 'Vijay Deverakonda']",['Puri Jagannadh'],1331
+Movie_333,['Thriller'],This is the overview of movie 332.,"['Prabhas', 'Mahesh Babu', 'Allu Arjun']",['Puri Jagannadh'],1332
+Movie_334,['Thriller'],This is the overview of movie 333.,"['Vijay Deverakonda', 'Pawan Kalyan', 'Ram Charan']",['Trivikram Srinivas'],1333
+Movie_335,['Thriller'],This is the overview of movie 334.,"['Vijay Deverakonda', 'Sai Dharam Tej', 'Sai Dharam Tej']",['Sukumar'],1334
+Movie_336,['Action'],This is the overview of movie 335.,"['Mahesh Babu', 'NTR', 'Mahesh Babu']",['Trivikram Srinivas'],1335
+Movie_337,['Drama'],This is the overview of movie 336.,"['Prabhas', 'Sai Dharam Tej', 'Chiranjeevi']",['Vamshi Paidipally'],1336
+Movie_338,['Comedy'],This is the overview of movie 337.,"['Varun Tej', 'Ram Charan', 'Varun Tej']",['Trivikram Srinivas'],1337
+Movie_339,['Thriller'],This is the overview of movie 338.,"['NTR', 'Pawan Kalyan', 'Allu Arjun']",['SS Rajamouli'],1338
+Movie_340,['Romance'],This is the overview of movie 339.,"['Varun Tej', 'Pawan Kalyan', 'Pawan Kalyan']",['Sukumar'],1339
+Movie_341,['Drama'],This is the overview of movie 340.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'Prabhas']",['Krish'],1340
+Movie_342,['Romance'],This is the overview of movie 341.,"['Allu Arjun', 'Allu Arjun', 'Sai Dharam Tej']",['Vamshi Paidipally'],1341
+Movie_343,['Comedy'],This is the overview of movie 342.,"['Mahesh Babu', 'NTR', 'Chiranjeevi']",['Puri Jagannadh'],1342
+Movie_344,['Drama'],This is the overview of movie 343.,"['Mahesh Babu', 'Pawan Kalyan', 'Ram Charan']",['Krish'],1343
+Movie_345,['Drama'],This is the overview of movie 344.,"['Chiranjeevi', 'Varun Tej', 'Sai Dharam Tej']",['Vamshi Paidipally'],1344
+Movie_346,['Thriller'],This is the overview of movie 345.,"['NTR', 'Pawan Kalyan', 'Prabhas']",['SS Rajamouli'],1345
+Movie_347,['Comedy'],This is the overview of movie 346.,"['NTR', 'Ram Charan', 'Chiranjeevi']",['Sukumar'],1346
+Movie_348,['Action'],This is the overview of movie 347.,"['Allu Arjun', 'Allu Arjun', 'Chiranjeevi']",['Boyapati Srinu'],1347
+Movie_349,['Action'],This is the overview of movie 348.,"['Pawan Kalyan', 'Allu Arjun', 'Chiranjeevi']",['Vamshi Paidipally'],1348
+Movie_350,['Comedy'],This is the overview of movie 349.,"['Pawan Kalyan', 'Varun Tej', 'Prabhas']",['Vamshi Paidipally'],1349
+Movie_351,['Action'],This is the overview of movie 350.,"['Allu Arjun', 'Vijay Deverakonda', 'Pawan Kalyan']",['Puri Jagannadh'],1350
+Movie_352,['Action'],This is the overview of movie 351.,"['Mahesh Babu', 'Prabhas', 'Ram Charan']",['Sukumar'],1351
+Movie_353,['Drama'],This is the overview of movie 352.,"['NTR', 'Varun Tej', 'Chiranjeevi']",['Puri Jagannadh'],1352
+Movie_354,['Action'],This is the overview of movie 353.,"['Vijay Deverakonda', 'Allu Arjun', 'Sai Dharam Tej']",['Puri Jagannadh'],1353
+Movie_355,['Thriller'],This is the overview of movie 354.,"['Prabhas', 'Varun Tej', 'Sai Dharam Tej']",['Boyapati Srinu'],1354
+Movie_356,['Thriller'],This is the overview of movie 355.,"['Ram Charan', 'Pawan Kalyan', 'Mahesh Babu']",['Vamshi Paidipally'],1355
+Movie_357,['Romance'],This is the overview of movie 356.,"['NTR', 'Ram Charan', 'Chiranjeevi']",['Koratal Siva'],1356
+Movie_358,['Romance'],This is the overview of movie 357.,"['Ram Charan', 'Prabhas', 'Ram Charan']",['Koratal Siva'],1357
+Movie_359,['Action'],This is the overview of movie 358.,"['NTR', 'Vijay Deverakonda', 'Ram Charan']",['Boyapati Srinu'],1358
+Movie_360,['Drama'],This is the overview of movie 359.,"['Pawan Kalyan', 'Pawan Kalyan', 'Ram Charan']",['Sukumar'],1359
+Movie_361,['Thriller'],This is the overview of movie 360.,"['Allu Arjun', 'Vijay Deverakonda', 'Allu Arjun']",['Vamshi Paidipally'],1360
+Movie_362,['Comedy'],This is the overview of movie 361.,"['NTR', 'Varun Tej', 'Varun Tej']",['Sukumar'],1361
+Movie_363,['Thriller'],This is the overview of movie 362.,"['Pawan Kalyan', 'Mahesh Babu', 'Ram Charan']",['Puri Jagannadh'],1362
+Movie_364,['Thriller'],This is the overview of movie 363.,"['Vijay Deverakonda', 'Sai Dharam Tej', 'Sai Dharam Tej']",['Krish'],1363
+Movie_365,['Romance'],This is the overview of movie 364.,"['Sai Dharam Tej', 'Mahesh Babu', 'Sai Dharam Tej']",['Boyapati Srinu'],1364
+Movie_366,['Comedy'],This is the overview of movie 365.,"['Prabhas', 'NTR', 'Pawan Kalyan']",['Krish'],1365
+Movie_367,['Comedy'],This is the overview of movie 366.,"['Chiranjeevi', 'Chiranjeevi', 'Prabhas']",['Koratal Siva'],1366
+Movie_368,['Drama'],This is the overview of movie 367.,"['Chiranjeevi', 'Varun Tej', 'NTR']",['Puri Jagannadh'],1367
+Movie_369,['Thriller'],This is the overview of movie 368.,"['Ram Charan', 'Vijay Deverakonda', 'Vijay Deverakonda']",['Sukumar'],1368
+Movie_370,['Action'],This is the overview of movie 369.,"['Vijay Deverakonda', 'Sai Dharam Tej', 'Prabhas']",['Krish'],1369
+Movie_371,['Romance'],This is the overview of movie 370.,"['Pawan Kalyan', 'Pawan Kalyan', 'Vijay Deverakonda']",['Krish'],1370
+Movie_372,['Drama'],This is the overview of movie 371.,"['Varun Tej', 'Mahesh Babu', 'Chiranjeevi']",['Boyapati Srinu'],1371
+Movie_373,['Romance'],This is the overview of movie 372.,"['Pawan Kalyan', 'Mahesh Babu', 'Sai Dharam Tej']",['Trivikram Srinivas'],1372
+Movie_374,['Comedy'],This is the overview of movie 373.,"['NTR', 'Chiranjeevi', 'Prabhas']",['SS Rajamouli'],1373
+Movie_375,['Thriller'],This is the overview of movie 374.,"['Prabhas', 'Chiranjeevi', 'Ram Charan']",['Vamshi Paidipally'],1374
+Movie_376,['Thriller'],This is the overview of movie 375.,"['Vijay Deverakonda', 'Chiranjeevi', 'Ram Charan']",['SS Rajamouli'],1375
+Movie_377,['Thriller'],This is the overview of movie 376.,"['Mahesh Babu', 'NTR', 'Sai Dharam Tej']",['Boyapati Srinu'],1376
+Movie_378,['Thriller'],This is the overview of movie 377.,"['Allu Arjun', 'Chiranjeevi', 'Varun Tej']",['Krish'],1377
+Movie_379,['Comedy'],This is the overview of movie 378.,"['Ram Charan', 'Prabhas', 'Allu Arjun']",['Sukumar'],1378
+Movie_380,['Action'],This is the overview of movie 379.,"['Prabhas', 'Sai Dharam Tej', 'Vijay Deverakonda']",['Boyapati Srinu'],1379
+Movie_381,['Drama'],This is the overview of movie 380.,"['Mahesh Babu', 'Vijay Deverakonda', 'Allu Arjun']",['SS Rajamouli'],1380
+Movie_382,['Romance'],This is the overview of movie 381.,"['Mahesh Babu', 'Chiranjeevi', 'Varun Tej']",['Puri Jagannadh'],1381
+Movie_383,['Romance'],This is the overview of movie 382.,"['Vijay Deverakonda', 'Mahesh Babu', 'Mahesh Babu']",['Boyapati Srinu'],1382
+Movie_384,['Romance'],This is the overview of movie 383.,"['Vijay Deverakonda', 'NTR', 'Sai Dharam Tej']",['Koratal Siva'],1383
+Movie_385,['Thriller'],This is the overview of movie 384.,"['Ram Charan', 'Ram Charan', 'Prabhas']",['Sukumar'],1384
+Movie_386,['Thriller'],This is the overview of movie 385.,"['Chiranjeevi', 'Ram Charan', 'NTR']",['Trivikram Srinivas'],1385
+Movie_387,['Romance'],This is the overview of movie 386.,"['Chiranjeevi', 'Pawan Kalyan', 'NTR']",['Krish'],1386
+Movie_388,['Comedy'],This is the overview of movie 387.,"['Sai Dharam Tej', 'Pawan Kalyan', 'Ram Charan']",['Boyapati Srinu'],1387
+Movie_389,['Comedy'],This is the overview of movie 388.,"['Vijay Deverakonda', 'Varun Tej', 'Varun Tej']",['Sukumar'],1388
+Movie_390,['Drama'],This is the overview of movie 389.,"['Vijay Deverakonda', 'Pawan Kalyan', 'Sai Dharam Tej']",['Koratal Siva'],1389
+Movie_391,['Drama'],This is the overview of movie 390.,"['Pawan Kalyan', 'Pawan Kalyan', 'Prabhas']",['Trivikram Srinivas'],1390
+Movie_392,['Thriller'],This is the overview of movie 391.,"['Mahesh Babu', 'Vijay Deverakonda', 'Prabhas']",['Trivikram Srinivas'],1391
+Movie_393,['Comedy'],This is the overview of movie 392.,"['Pawan Kalyan', 'Varun Tej', 'Sai Dharam Tej']",['SS Rajamouli'],1392
+Movie_394,['Comedy'],This is the overview of movie 393.,"['Chiranjeevi', 'Vijay Deverakonda', 'Varun Tej']",['Puri Jagannadh'],1393
+Movie_395,['Action'],This is the overview of movie 394.,"['Allu Arjun', 'Chiranjeevi', 'Mahesh Babu']",['Krish'],1394
+Movie_396,['Action'],This is the overview of movie 395.,"['Mahesh Babu', 'Vijay Deverakonda', 'Vijay Deverakonda']",['Vamshi Paidipally'],1395
+Movie_397,['Action'],This is the overview of movie 396.,"['Prabhas', 'NTR', 'Varun Tej']",['Sukumar'],1396
+Movie_398,['Action'],This is the overview of movie 397.,"['Chiranjeevi', 'Mahesh Babu', 'Varun Tej']",['Vamshi Paidipally'],1397
+Movie_399,['Action'],This is the overview of movie 398.,"['Ram Charan', 'Pawan Kalyan', 'Mahesh Babu']",['Boyapati Srinu'],1398
+Movie_400,['Drama'],This is the overview of movie 399.,"['Vijay Deverakonda', 'Pawan Kalyan', 'Ram Charan']",['Trivikram Srinivas'],1399
+Movie_401,['Thriller'],This is the overview of movie 400.,"['NTR', 'Varun Tej', 'Pawan Kalyan']",['Koratal Siva'],1400
+Movie_402,['Comedy'],This is the overview of movie 401.,"['Prabhas', 'Varun Tej', 'Pawan Kalyan']",['Sukumar'],1401
+Movie_403,['Thriller'],This is the overview of movie 402.,"['Varun Tej', 'NTR', 'Pawan Kalyan']",['Trivikram Srinivas'],1402
+Movie_404,['Comedy'],This is the overview of movie 403.,"['Mahesh Babu', 'NTR', 'NTR']",['Boyapati Srinu'],1403
+Movie_405,['Comedy'],This is the overview of movie 404.,"['Pawan Kalyan', 'Vijay Deverakonda', 'Varun Tej']",['Koratal Siva'],1404
+Movie_406,['Action'],This is the overview of movie 405.,"['Prabhas', 'NTR', 'Ram Charan']",['Puri Jagannadh'],1405
+Movie_407,['Romance'],This is the overview of movie 406.,"['Allu Arjun', 'Prabhas', 'Varun Tej']",['Vamshi Paidipally'],1406
+Movie_408,['Comedy'],This is the overview of movie 407.,"['Sai Dharam Tej', 'NTR', 'Prabhas']",['Sukumar'],1407
+Movie_409,['Action'],This is the overview of movie 408.,"['NTR', 'Prabhas', 'Ram Charan']",['Vamshi Paidipally'],1408
+Movie_410,['Romance'],This is the overview of movie 409.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'Chiranjeevi']",['Krish'],1409
+Movie_411,['Comedy'],This is the overview of movie 410.,"['Allu Arjun', 'Ram Charan', 'Vijay Deverakonda']",['Trivikram Srinivas'],1410
+Movie_412,['Romance'],This is the overview of movie 411.,"['Sai Dharam Tej', 'NTR', 'Mahesh Babu']",['Boyapati Srinu'],1411
+Movie_413,['Drama'],This is the overview of movie 412.,"['Pawan Kalyan', 'Vijay Deverakonda', 'Vijay Deverakonda']",['Trivikram Srinivas'],1412
+Movie_414,['Action'],This is the overview of movie 413.,"['Allu Arjun', 'Prabhas', 'Vijay Deverakonda']",['Koratal Siva'],1413
+Movie_415,['Comedy'],This is the overview of movie 414.,"['NTR', 'Prabhas', 'Pawan Kalyan']",['Puri Jagannadh'],1414
+Movie_416,['Thriller'],This is the overview of movie 415.,"['Pawan Kalyan', 'Mahesh Babu', 'NTR']",['Puri Jagannadh'],1415
+Movie_417,['Drama'],This is the overview of movie 416.,"['Pawan Kalyan', 'Vijay Deverakonda', 'Chiranjeevi']",['Puri Jagannadh'],1416
+Movie_418,['Comedy'],This is the overview of movie 417.,"['Vijay Deverakonda', 'Varun Tej', 'Prabhas']",['Puri Jagannadh'],1417
+Movie_419,['Thriller'],This is the overview of movie 418.,"['Prabhas', 'Prabhas', 'NTR']",['Koratal Siva'],1418
+Movie_420,['Romance'],This is the overview of movie 419.,"['Chiranjeevi', 'Chiranjeevi', 'Pawan Kalyan']",['Puri Jagannadh'],1419
+Movie_421,['Drama'],This is the overview of movie 420.,"['Sai Dharam Tej', 'NTR', 'Prabhas']",['Sukumar'],1420
+Movie_422,['Action'],This is the overview of movie 421.,"['Ram Charan', 'Pawan Kalyan', 'Allu Arjun']",['Puri Jagannadh'],1421
+Movie_423,['Comedy'],This is the overview of movie 422.,"['Varun Tej', 'Sai Dharam Tej', 'Vijay Deverakonda']",['Sukumar'],1422
+Movie_424,['Drama'],This is the overview of movie 423.,"['Varun Tej', 'Sai Dharam Tej', 'Ram Charan']",['Sukumar'],1423
+Movie_425,['Romance'],This is the overview of movie 424.,"['Pawan Kalyan', 'Pawan Kalyan', 'Mahesh Babu']",['Trivikram Srinivas'],1424
+Movie_426,['Romance'],This is the overview of movie 425.,"['Mahesh Babu', 'NTR', 'Ram Charan']",['Trivikram Srinivas'],1425
+Movie_427,['Drama'],This is the overview of movie 426.,"['Ram Charan', 'Allu Arjun', 'Allu Arjun']",['Trivikram Srinivas'],1426
+Movie_428,['Comedy'],This is the overview of movie 427.,"['Prabhas', 'NTR', 'Chiranjeevi']",['Koratal Siva'],1427
+Movie_429,['Action'],This is the overview of movie 428.,"['Allu Arjun', 'Varun Tej', 'Allu Arjun']",['Boyapati Srinu'],1428
+Movie_430,['Drama'],This is the overview of movie 429.,"['Ram Charan', 'Ram Charan', 'Varun Tej']",['Vamshi Paidipally'],1429
+Movie_431,['Thriller'],This is the overview of movie 430.,"['Allu Arjun', 'Vijay Deverakonda', 'Pawan Kalyan']",['Vamshi Paidipally'],1430
+Movie_432,['Romance'],This is the overview of movie 431.,"['Prabhas', 'Ram Charan', 'Varun Tej']",['Sukumar'],1431
+Movie_433,['Thriller'],This is the overview of movie 432.,"['Ram Charan', 'Pawan Kalyan', 'NTR']",['Vamshi Paidipally'],1432
+Movie_434,['Comedy'],This is the overview of movie 433.,"['Chiranjeevi', 'Pawan Kalyan', 'Vijay Deverakonda']",['SS Rajamouli'],1433
+Movie_435,['Thriller'],This is the overview of movie 434.,"['Allu Arjun', 'Allu Arjun', 'Pawan Kalyan']",['Vamshi Paidipally'],1434
+Movie_436,['Thriller'],This is the overview of movie 435.,"['Pawan Kalyan', 'Pawan Kalyan', 'Mahesh Babu']",['Trivikram Srinivas'],1435
+Movie_437,['Comedy'],This is the overview of movie 436.,"['Pawan Kalyan', 'Vijay Deverakonda', 'Varun Tej']",['Vamshi Paidipally'],1436
+Movie_438,['Thriller'],This is the overview of movie 437.,"['Mahesh Babu', 'Allu Arjun', 'Mahesh Babu']",['Vamshi Paidipally'],1437
+Movie_439,['Comedy'],This is the overview of movie 438.,"['Allu Arjun', 'Vijay Deverakonda', 'Varun Tej']",['Puri Jagannadh'],1438
+Movie_440,['Thriller'],This is the overview of movie 439.,"['Sai Dharam Tej', 'Chiranjeevi', 'Pawan Kalyan']",['Boyapati Srinu'],1439
+Movie_441,['Romance'],This is the overview of movie 440.,"['Prabhas', 'NTR', 'Varun Tej']",['Puri Jagannadh'],1440
+Movie_442,['Drama'],This is the overview of movie 441.,"['Pawan Kalyan', 'Sai Dharam Tej', 'NTR']",['SS Rajamouli'],1441
+Movie_443,['Drama'],This is the overview of movie 442.,"['Mahesh Babu', 'Ram Charan', 'Vijay Deverakonda']",['Boyapati Srinu'],1442
+Movie_444,['Drama'],This is the overview of movie 443.,"['Sai Dharam Tej', 'Mahesh Babu', 'Chiranjeevi']",['Vamshi Paidipally'],1443
+Movie_445,['Thriller'],This is the overview of movie 444.,"['Varun Tej', 'Ram Charan', 'Allu Arjun']",['SS Rajamouli'],1444
+Movie_446,['Action'],This is the overview of movie 445.,"['Prabhas', 'Chiranjeevi', 'NTR']",['SS Rajamouli'],1445
+Movie_447,['Action'],This is the overview of movie 446.,"['Prabhas', 'NTR', 'NTR']",['Krish'],1446
+Movie_448,['Comedy'],This is the overview of movie 447.,"['Ram Charan', 'Varun Tej', 'Mahesh Babu']",['Trivikram Srinivas'],1447
+Movie_449,['Drama'],This is the overview of movie 448.,"['Allu Arjun', 'Ram Charan', 'Ram Charan']",['Krish'],1448
+Movie_450,['Thriller'],This is the overview of movie 449.,"['Varun Tej', 'NTR', 'Chiranjeevi']",['Trivikram Srinivas'],1449
+Movie_451,['Drama'],This is the overview of movie 450.,"['Mahesh Babu', 'Chiranjeevi', 'Ram Charan']",['Trivikram Srinivas'],1450
+Movie_452,['Romance'],This is the overview of movie 451.,"['NTR', 'Mahesh Babu', 'Pawan Kalyan']",['Trivikram Srinivas'],1451
+Movie_453,['Romance'],This is the overview of movie 452.,"['Varun Tej', 'Chiranjeevi', 'Chiranjeevi']",['SS Rajamouli'],1452
+Movie_454,['Romance'],This is the overview of movie 453.,"['Mahesh Babu', 'Allu Arjun', 'Ram Charan']",['Krish'],1453
+Movie_455,['Drama'],This is the overview of movie 454.,"['Varun Tej', 'Mahesh Babu', 'Prabhas']",['Boyapati Srinu'],1454
+Movie_456,['Comedy'],This is the overview of movie 455.,"['Vijay Deverakonda', 'Sai Dharam Tej', 'Vijay Deverakonda']",['Vamshi Paidipally'],1455
+Movie_457,['Action'],This is the overview of movie 456.,"['Allu Arjun', 'Vijay Deverakonda', 'Ram Charan']",['Puri Jagannadh'],1456
+Movie_458,['Romance'],This is the overview of movie 457.,"['Sai Dharam Tej', 'Prabhas', 'Mahesh Babu']",['Boyapati Srinu'],1457
+Movie_459,['Thriller'],This is the overview of movie 458.,"['Mahesh Babu', 'Ram Charan', 'Chiranjeevi']",['Krish'],1458
+Movie_460,['Thriller'],This is the overview of movie 459.,"['NTR', 'Vijay Deverakonda', 'Varun Tej']",['Trivikram Srinivas'],1459
+Movie_461,['Drama'],This is the overview of movie 460.,"['Mahesh Babu', 'NTR', 'NTR']",['Krish'],1460
+Movie_462,['Thriller'],This is the overview of movie 461.,"['Pawan Kalyan', 'Varun Tej', 'Mahesh Babu']",['SS Rajamouli'],1461
+Movie_463,['Action'],This is the overview of movie 462.,"['Vijay Deverakonda', 'Sai Dharam Tej', 'Vijay Deverakonda']",['SS Rajamouli'],1462
+Movie_464,['Romance'],This is the overview of movie 463.,"['Vijay Deverakonda', 'Vijay Deverakonda', 'Ram Charan']",['Krish'],1463
+Movie_465,['Comedy'],This is the overview of movie 464.,"['Pawan Kalyan', 'Allu Arjun', 'Chiranjeevi']",['Krish'],1464
+Movie_466,['Comedy'],This is the overview of movie 465.,"['Ram Charan', 'Chiranjeevi', 'Pawan Kalyan']",['Vamshi Paidipally'],1465
+Movie_467,['Thriller'],This is the overview of movie 466.,"['Prabhas', 'Allu Arjun', 'Prabhas']",['Trivikram Srinivas'],1466
+Movie_468,['Comedy'],This is the overview of movie 467.,"['Pawan Kalyan', 'Pawan Kalyan', 'Varun Tej']",['Boyapati Srinu'],1467
+Movie_469,['Romance'],This is the overview of movie 468.,"['Prabhas', 'Pawan Kalyan', 'Ram Charan']",['Trivikram Srinivas'],1468
+Movie_470,['Comedy'],This is the overview of movie 469.,"['Pawan Kalyan', 'Chiranjeevi', 'Sai Dharam Tej']",['Boyapati Srinu'],1469
+Movie_471,['Thriller'],This is the overview of movie 470.,"['Chiranjeevi', 'Vijay Deverakonda', 'Vijay Deverakonda']",['Puri Jagannadh'],1470
+Movie_472,['Thriller'],This is the overview of movie 471.,"['NTR', 'Vijay Deverakonda', 'Allu Arjun']",['Krish'],1471
+Movie_473,['Thriller'],This is the overview of movie 472.,"['Mahesh Babu', 'Ram Charan', 'Vijay Deverakonda']",['Krish'],1472
+Movie_474,['Drama'],This is the overview of movie 473.,"['Varun Tej', 'Mahesh Babu', 'Sai Dharam Tej']",['Boyapati Srinu'],1473
+Movie_475,['Comedy'],This is the overview of movie 474.,"['Prabhas', 'Ram Charan', 'NTR']",['SS Rajamouli'],1474
+Movie_476,['Drama'],This is the overview of movie 475.,"['Prabhas', 'Allu Arjun', 'Chiranjeevi']",['SS Rajamouli'],1475
+Movie_477,['Thriller'],This is the overview of movie 476.,"['Varun Tej', 'Chiranjeevi', 'Pawan Kalyan']",['Sukumar'],1476
+Movie_478,['Romance'],This is the overview of movie 477.,"['Pawan Kalyan', 'Mahesh Babu', 'Mahesh Babu']",['Puri Jagannadh'],1477
+Movie_479,['Comedy'],This is the overview of movie 478.,"['NTR', 'Mahesh Babu', 'Prabhas']",['Trivikram Srinivas'],1478
+Movie_480,['Drama'],This is the overview of movie 479.,"['Ram Charan', 'Chiranjeevi', 'Prabhas']",['Boyapati Srinu'],1479
+Movie_481,['Drama'],This is the overview of movie 480.,"['Pawan Kalyan', 'Pawan Kalyan', 'Sai Dharam Tej']",['Koratal Siva'],1480
+Movie_482,['Action'],This is the overview of movie 481.,"['Sai Dharam Tej', 'Prabhas', 'Sai Dharam Tej']",['Koratal Siva'],1481
+Movie_483,['Thriller'],This is the overview of movie 482.,"['NTR', 'Vijay Deverakonda', 'Allu Arjun']",['Vamshi Paidipally'],1482
+Movie_484,['Action'],This is the overview of movie 483.,"['Varun Tej', 'Sai Dharam Tej', 'Chiranjeevi']",['Koratal Siva'],1483
+Movie_485,['Action'],This is the overview of movie 484.,"['Chiranjeevi', 'Ram Charan', 'Ram Charan']",['Puri Jagannadh'],1484
+Movie_486,['Thriller'],This is the overview of movie 485.,"['Ram Charan', 'Ram Charan', 'NTR']",['Vamshi Paidipally'],1485
+Movie_487,['Drama'],This is the overview of movie 486.,"['Chiranjeevi', 'NTR', 'NTR']",['Vamshi Paidipally'],1486
+Movie_488,['Comedy'],This is the overview of movie 487.,"['Chiranjeevi', 'Pawan Kalyan', 'Varun Tej']",['Sukumar'],1487
+Movie_489,['Drama'],This is the overview of movie 488.,"['Pawan Kalyan', 'Sai Dharam Tej', 'Prabhas']",['Boyapati Srinu'],1488
+Movie_490,['Thriller'],This is the overview of movie 489.,"['Allu Arjun', 'Pawan Kalyan', 'Ram Charan']",['Krish'],1489
+Movie_491,['Comedy'],This is the overview of movie 490.,"['Allu Arjun', 'Pawan Kalyan', 'Sai Dharam Tej']",['Trivikram Srinivas'],1490
+Movie_492,['Drama'],This is the overview of movie 491.,"['Sai Dharam Tej', 'Vijay Deverakonda', 'Ram Charan']",['Krish'],1491
+Movie_493,['Drama'],This is the overview of movie 492.,"['Varun Tej', 'Sai Dharam Tej', 'Sai Dharam Tej']",['Boyapati Srinu'],1492
+Movie_494,['Thriller'],This is the overview of movie 493.,"['Ram Charan', 'Varun Tej', 'Vijay Deverakonda']",['SS Rajamouli'],1493
+Movie_495,['Drama'],This is the overview of movie 494.,"['Mahesh Babu', 'Ram Charan', 'Sai Dharam Tej']",['Puri Jagannadh'],1494
+Movie_496,['Comedy'],This is the overview of movie 495.,"['Ram Charan', 'Mahesh Babu', 'Chiranjeevi']",['Puri Jagannadh'],1495
+Movie_497,['Romance'],This is the overview of movie 496.,"['Sai Dharam Tej', 'NTR', 'Prabhas']",['Krish'],1496
+Movie_498,['Romance'],This is the overview of movie 497.,"['Pawan Kalyan', 'Pawan Kalyan', 'Mahesh Babu']",['Puri Jagannadh'],1497
+Movie_499,['Drama'],This is the overview of movie 498.,"['Pawan Kalyan', 'Pawan Kalyan', 'Allu Arjun']",['Trivikram Srinivas'],1498
+Movie_500,['Thriller'],This is the overview of movie 499.,"['Vijay Deverakonda', 'Sai Dharam Tej', 'Prabhas']",['Krish'],1499
